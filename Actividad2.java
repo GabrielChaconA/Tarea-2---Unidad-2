@@ -6,6 +6,7 @@ public static void main(String[] args) {
     int n3=3;
 System.out.println("Este es el resultado de n1+n2 +n2");
 System.out.println(n3+n1+n2);
+System.out.println(n2);
 }
 
 
